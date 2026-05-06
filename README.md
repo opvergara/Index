@@ -35,7 +35,7 @@ Permite identificar y priorizar viviendas con riesgo por asbesto en Peñaflor, i
 
 ## ⚡ En 10 segundos entiendes todo:
 
-👉 Riesgo = IASHA  
+👉 Amenaza = IASHA  
 👉 Prioridad = IPA  
 👉 Acción = Gobernanza Reparadora  
 
