@@ -1,41 +1,42 @@
-# IASHA
-Researcher in Territorial Governance &amp; Housing Justice | Creator of IASHA Index &amp; IPA | Geospatial Analysis | Evidence-based Public Policy |
-# IASHA - Dashboard Peñaflor 2026
+# 🏠 IASHA Dashboard – Riesgo por Asbesto en Peñaflor
 
-**Índice de Amenaza Sanitaria Habitacional al Asbesto (IASHA) + Índice de Priorización al Asbesto (IPA)**
+## 🔎 Explora el Dashboard interactivo
 
-### La primera herramienta que cierra la brecha de **Gobernanza Reparadora Difusa** en Chile
+👉 https://opvergara.github.io/IASHA/
 
-El Estado avanza en la remoción de asbesto en viviendas **sociales subsidiadas**, pero miles de familias que compraron su casa **sin subsidio** quedan fuera de toda intervención estatal.  
-Este dashboard resuelve esa brecha: transforma la Gobernanza Reparadora Difusa en **Gobernanza del Asbesto real** a través de políticas públicas basadas en evidencia.
-
-### ¿Qué incluye el dashboard?
-- ✅ **Calculadora interactiva** para cualquier propietario (en 30 segundos sabe su IASHA + IPA y qué debe hacer)
-- ✅ **Mapa geoespacial** con los 205 puntos de riesgo en cooperativas de Peñaflor
-- ✅ Tabla filtrable, KPIs en tiempo real y categorías de riesgo
-- ✅ Evaluación técnica **y** ética/social (priorización reparadora)
-
-### Caso de estudio
-**Comuna de Peñaflor, Santiago de Chile**  
-Aplicación multidimensional del IASHA en viviendas particulares sin subsidio estatal.
-
-**Enlace directo al Dashboard →**  
-**[Ver Dashboard IASHA en vivo](https://opvergara.github.io/IASHA/)**
-
-**Autor:**  
-Omar Patricio Vergara Gonzalez
-Investigador en Asbesto y Justicia Ambiental
-Creador del Indice de Amenanza Sanitaria Habitacional al asbesto (IASHA)
-Creador del Indice de Priorizacion al Asbesto (IPA)
-opvergara@uc.cl  
-Researcher in Territorial Governance & Housing Justice | Creator of IASHA Index & IPA | Geospatial Analysis | Evidence-based Public Policy |
+✅ Sitio seguro (GitHub Pages)  
+✅ No requiere instalación  
+✅ Funciona en cualquier navegador  
 
 ---
 
-**¿Cómo usar?**  
-1. Abre el enlace  
-2. Usa la calculadora con tus datos  
-3. Exporta tu informe PDF personalizado  
-4. Llévalo al municipio o Seremi para solicitar apoyo
+![Mapa IASHA](TU_IMAGEN_AQUI)
 
-**Contacto: https://www.linkedin.com/in/omar-patricio-vergara-gonzalez-puc/ **
+---
+
+## 🎯 ¿Qué hace esta herramienta?
+
+Permite identificar y priorizar viviendas con riesgo por asbesto en Peñaflor, integrando:
+
+✅ IASHA (riesgo estructural)  
+✅ IPA (priorización social)  
+✅ Justicia ambiental  
+
+---
+
+## 📊 ¿Qué puedes hacer?
+
+- 🔍 Evaluar riesgo en segundos  
+- 🗺️ Ver mapa de 205 viviendas  
+- 📄 Generar informe PDF  
+- 🧭 Priorizar intervención municipal  
+
+---
+
+## ⚡ En 10 segundos entiendes todo:
+
+👉 Riesgo = IASHA  
+👉 Prioridad = IPA  
+👉 Acción = Gobernanza Reparadora  
+
+---
