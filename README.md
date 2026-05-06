@@ -9,8 +9,8 @@
 ✅ Funciona en cualquier navegador  
 
 ---
+![Mapa IASHA]<img width="1342" height="541" alt="image" src="https://github.com/user-attachments/assets/5b8b6392-a99c-4c57-b2da-f36bf05d39f6" />
 
-![Mapa IASHA](TU_IMAGEN_AQUI)
 
 ---
 
