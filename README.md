@@ -1,4 +1,4 @@
-# 🏠 IASHA Dashboard – Riesgo por Asbesto en Peñaflor
+# 🏠 IASHA Dashboard – Amenaza Sanitaria Habitacional por Asbesto en Peñaflor
 
 ## 🔎 Explora el Dashboard interactivo
 
